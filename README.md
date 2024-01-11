@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi 👋 My name is Andrew =======================  Practicing Coding Skills ------------------------  * 🖥️  See my portfolio at [loam.lol](http://loam.lol) * 🚀  I'm currently working on [slurs.fun](http://slurs.fun) * 🧠  I'm learning Apache2.4 * ⚡  By far the coolest mascot
+Hi 👋 My name is Andrew =======================  Practicing Coding Skills ------------------------  * 🌱  Silly stuff at [loam.lol](http://loam.lol) * 🚀  I'm currently working on getting [slurs.fun](http://slurs.fun) up and running * 🧠  Currently learning Apache2.4 and Python * ⚡  By far the coolest mascot
 
 ### Skills  
 
